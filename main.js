@@ -25,12 +25,13 @@
 // const newUser = { ...user, ...extra };
 // console.log(newUser);
 
-3; // Template strings → ${ } 
+3; // Template strings → ${ }
 // `Hello ${name}, age is ${age}`
 
 // 4. rest oprator
 // const numbers = [1, 2, 3, 4, 5];
 // const [ first, second, ...rest] = numbers;
+//This is out=r first commit
 // console.log(first);
 // console.log(second);
 // console.log(rest); // ye array me value lega
